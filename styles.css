@@ -41,6 +41,11 @@ button:hover {
     background-color: #45a049;
 }
 
+button:active{
+    scale: 0.9;
+    background-color: #45a049;
+}
+
 p {
     font-size: 18px;
     margin-top: 20px;
